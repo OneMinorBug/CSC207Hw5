@@ -1,6 +1,5 @@
 package interface_adapter.logout;
 
-import use_case.login.LoginOutputData;
 import use_case.logout.LogoutInputBoundary;
 import use_case.logout.LogoutInputData;
 
